@@ -16,4 +16,4 @@ Contributors on Rackslab organization Git repositories should do their best to f
 
 # Release Versions Numbering
 
-The versions numbers of Rackslab software releases follow the [semantic versionning s](https://semver.org/).
+The versions numbers of Rackslab software releases follow the [semantic versionning specifications](https://semver.org/).
