@@ -1,3 +1,13 @@
+# Code Conventions
+
+## Python code
+
+Python code in Rackslab software projects must be formatted with
+[Black](https://github.com/psf/black) and this set of paramters:
+```
+$ black --line-length 80 --skip-string-normalization --target-version py36 --color <code>
+```
+
 # Git Conventions
 
 ## Commit Messages
